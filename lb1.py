@@ -49,7 +49,7 @@ def login():
 def main_menu():
 
     while True:
-        print("\n=== ГОЛОВНЕ МЕНЮ ===")
+        print("\n=== Меню ===")
         print("1. Зареєструватися")
         print("2. Увійти")
         print("3. Вийти")
